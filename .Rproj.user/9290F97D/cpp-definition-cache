@@ -1,0 +1,17 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/Users/fredericlm/Desktop/PhD/Forecast for Optim/taskDrivenRandomForest/src/rcpp_hello_world.cpp",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "rcpp_hello_world",
+                "parent_name" : "",
+                "usr" : "c:@F@rcpp_hello_world#"
+            }
+        ],
+        "file" : "/Users/fredericlm/Desktop/PhD/Forecast for Optim/taskDrivenRandomForest/src/rcpp_hello_world.cpp",
+        "file_last_write" : 1573462690.000000
+    }
+]

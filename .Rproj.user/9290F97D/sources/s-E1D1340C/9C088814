@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573463038166.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3137286718",
+    "id" : "9C088814",
+    "lastKnownWriteTime" : 1573479986,
+    "last_content_update" : 1573479986446,
+    "path" : "~/Desktop/PhD/Forecast for Optim/taskDrivenRandomForest/R/custom_random_forest.R",
+    "project_path" : "R/custom_random_forest.R",
+    "properties" : {
+        "cursorPosition" : "185,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

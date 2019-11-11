@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573463477091.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EE63A040",
+    "lastKnownWriteTime" : 1573479213,
+    "last_content_update" : 1573479213897,
+    "path" : "~/Desktop/PhD/Forecast for Optim/taskDrivenRandomForest/R/recalibrating_rf_from_rf_pkg.R",
+    "project_path" : "R/recalibrating_rf_from_rf_pkg.R",
+    "properties" : {
+        "cursorPosition" : "73,1",
+        "scrollLine" : "35",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
