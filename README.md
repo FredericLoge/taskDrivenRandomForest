@@ -1,0 +1,2 @@
+# taskDrivenRandomForest
+Mean Squared Errors are a classic metric for regression and yet this metric, justified generally speaking for mathematical convenience, might not be appropriate for real-world applications. We let the user define custom error metrics and from there we build decision trees (and by direct extensions randomForests) revisiting (a) the splitting criterion (b) the final prediction based on the custom error metric provided. 
